@@ -32,9 +32,4 @@
     --measureSpacingSpacingSpacingXl: 64px;    
     /* You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens */
     --measureSpacingSpacingSpacingMultiValue: 864px;    
-    --measureBorderRadiusBorderRadiusBorderradiusSm: 4px;    
-    --measureBorderRadiusBorderRadiusBorderradiusLg: 8px;    
-    --measureBorderRadiusBorderRadiusBorderradiusXl: 16px;    
-    /* You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values */
-    --measureBorderRadiusBorderRadiusBorderradiusMultiValue: 0px;    
 }
