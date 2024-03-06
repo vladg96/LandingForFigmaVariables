@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
-@import "colors.css"; 
+@import url('colors.css');
 
 .light {
-  --mainColor: var(--colorColorMaincolor);    
-  --hoverColor: var(--colorColorHovercolor);    
-  --backgroundColor: var(--colorColorBackgroundcolor);    
+  --mainColor: var(--colorColormain);       
+  --hoverColor: var(--colorColorHover);    
+  --backgroundColor: var(--colorColorBackground);    
   --darkOne: var(--colorColorDarkone);    
   --darkTwo: var(--colorColorDarktwo);    
   --lightOne: var(--colorColorLightone);    
