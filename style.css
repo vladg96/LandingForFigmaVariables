@@ -3,13 +3,13 @@
 @import "./colors.css";
 
 .light {
-  --maincolor: var(--colorColorMaincolor);    
+  --mainColor: var(--colorColorMaincolor);    
   --colorHoverColor: var(--colorColorHovercolor);    
   --backgroundColor: var(--colorColorBackgroundcolor);    
   --darkOne: var(--colorColorDarkone);    
   --darktwo: var(--colorColorDarktwo);    
-  --lightOne: #cccccc;    
-  --lightTwo: #e7e3e3;   
+  --lightOne: var(--colorColorLightone);    
+  --lightTwo: var(--colorColorLighttwo);   
 }
 
 .dark {
