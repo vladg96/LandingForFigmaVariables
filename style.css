@@ -1,15 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
-@import url(colors.css);
+@import "./colors.css";
 
 .light {
-  --colorColorMaincolor: #0d44ad;    
-  --colorColorHovercolor: #072660;    
-  --colorColorBackgroundcolor: #061827;    
-  --colorColorDarkone: #f3f3f3;    
-  --colorColorDarktwo: #ffffff;    
-  --colorColorLightone: #cccccc;    
-  --colorColorLighttwo: #e7e3e3;   
+  --maincolor: var(--colorColorMaincolor);    
+  --colorHoverColor: var(--colorColorHovercolor);    
+  --backgroundColor: var(--colorColorBackgroundcolor);    
+  --darkOne: var(--colorColorDarkone);    
+  --darktwo: var(--colorColorDarktwo);    
+  --lightOne: #cccccc;    
+  --lightTwo: #e7e3e3;   
 }
 
 .dark {
