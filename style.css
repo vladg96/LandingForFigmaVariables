@@ -4,13 +4,13 @@
 
 
 .light {
-  --mainColor: var(--colorColormain)!important;       
-  --hoverColor: var(--colorColorHover)!important;    
-  --backgroundColor: var(--colorColorBackground)!important;    
-  --darkOne: var(--colorColorDarkone)!important;    
-  --darkTwo: var(--colorColorDarktwo)!important;    
-  --lightOne: var(--colorColorLightone)!important;    
-  --lightTwo: var(--colorColorLighttwo)!important;   
+  --mainColor: var(--colorColorMain);       
+  --hoverColor: var(--colorColorHover);    
+  --backgroundColor: var(--colorColorBackground);    
+  --darkOne: var(--colorColorDarkone);    
+  --darkTwo: var(--colorColorDarktwo);    
+  --lightOne: var(--colorColorLightone);    
+  --lightTwo: var(--colorColorLighttwo);   
 }
 
 .dark {
