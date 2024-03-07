@@ -2,9 +2,20 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
-
-.light {
+:root{
   --mainColor: var(--colorColorMain);       
+  --hoverColor: var(--colorColorHover);    
+  --backgroundColor: var(--colorColorBackground);    
+  --darkOne: var(--colorColorDarkone);    
+  --darkTwo: var(--colorColorDarktwo);    
+  --lightOne: var(--colorColorLightone);    
+  --lightTwo: var(--colorColorLighttwo);  
+}
+
+
+/*
+.light{
+  --mainColor: var(co);       
   --hoverColor: var(--colorColorHover);    
   --backgroundColor: var(--colorColorBackground);    
   --darkOne: var(--colorColorDarkone);    
@@ -22,6 +33,8 @@
   --lightOne: #fff;
   --lightTwo: #e7e3e3;
 }
+
+*/
 
 *,
 *::before,
